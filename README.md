@@ -13,6 +13,8 @@ In the datasets folder:
 
 "Malware types in SPMF" contains the API calls in SPMF Format for each malware
 
+The Python script computes the  the minimum length, maximum length and average sequence length of API calls sequences in each malware type. 
+
 
 
 
